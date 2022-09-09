@@ -8,6 +8,9 @@
     position: relative;
     width: 100vw;
     height: 100ph;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .banner::before{
